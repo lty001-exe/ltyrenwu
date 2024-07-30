@@ -1,3 +1,0 @@
-/home/lty/1/build/CMakeFiles/1.dir
-/home/lty/1/build/CMakeFiles/edit_cache.dir
-/home/lty/1/build/CMakeFiles/rebuild_cache.dir
